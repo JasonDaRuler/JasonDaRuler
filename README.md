@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **fun personal projects.**
   
-- 💡 I'm fascinated by solving complex problems and exploring the vast outlook of cybersecurity. 
+- 💡 I'm fascinated by solving complex problems and exploring the broad world of cybersecurity. 
 
 - 📫 Reach me at **jkhauu@gmail.com**
 
