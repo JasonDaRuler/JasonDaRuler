@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Jason.</h1>
 <h3 align="center">An ambitious student at CSUF pursuing a Bachelor of Science in Computer Science, with a minor in Business Administration. Leveled up my skills with a Cybersecurity Certificate from a BootCamp at CSULB. 👨‍💻👨‍💼</h3>
 
-- 🔭 I’m currently working on **a crypto market website**
+- 🔭 I’m currently working on **a multi-agent AI system that automates concrete‐flooring estimating for U.S. commercial projects**
 
-- 👯 I’m looking to collaborate on **fun personal projects.**
+- 👯 I’m looking to collaborate on **fun and meaningful personal projects.**
   
 - 💡 I'm fascinated by solving complex problems and exploring the broad world of cybersecurity. 
 
